@@ -1,8 +1,11 @@
 ### Two-Stage Uncertainty Modeling with Coverage-Constrained Optimization
 
 **Leaderboard Rank:** 40th (Individual)
+
 **Participants:** 691 Teams
+
 **Task:** Prediction Interval Estimation
+
 **Metric:** Winkler Score with Coverage Constraint
 
 ---
@@ -186,8 +189,7 @@ Key regularization choices:
 ```
 ├── dataset.csv
 ├── test.csv
-├── solution.py
-├── submission.csv
+├── kaggle_solution.ipynb
 └── README.md
 ```
 
