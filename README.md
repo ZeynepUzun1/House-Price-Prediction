@@ -21,6 +21,7 @@ Instead of predicting only a point estimate, the model generates **lower and upp
 * minimum coverage guarantees
 
 The solution achieved **40th place as an individual competitor** among 691 teams.
+Competition: https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price/overview
 
 ---
 
